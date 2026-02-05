@@ -1,0 +1,1 @@
+Since the new design consists of two different PCBs, two different enclosures are also required: one for the ECU and the second for the HMI. All enclosure parts were created by [Extrutim](https://www.printables.com/@Extrutim), whose excellent work and attention to detail significantly contributed to the result.
